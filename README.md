@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently study at **University Malaysia Terengganu**
 
-- 🌱 I’m currently learning **Flutter Development,Web Development,and Graphic Designer**
+- 🌱 I’m currently learning **Flutter Development,Web Based Design,and Graphic Designer**
 
 - 🤝 I’m looking for help with **Internship 2u2i Programme**
 
