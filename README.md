@@ -1,5 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=73F7F6&random=false&width=435&lines=Congrats%2C+you+found+me+!!;Hi+!!++Afiq+Han+here" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=73F7F6&center=true&random=false&width=435&lines=Congrats%2C+you+found+me+!!;Hi+!!++Afiq+Han+here" alt="Typing SVG" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
