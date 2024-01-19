@@ -7,13 +7,13 @@
 
 
 <h1 align="center">💻</h1>
-<h2 align="center">A passionate web developer from Malaysia </h2>
+<h2 align="center">Computer Science Student</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiqhan&label=Profile%20views&color=0e75b6&style=flat" alt="afiqhan" /> </p>
 
 
-- 🎓 I’m currently study at **UMT**
+- 🎓 I’m currently study at **Universiti Malaysia Terengganu**
 
 - 📱 I’m currently learning **Flutter Development,Web Development,and Graphic Designer**
 
