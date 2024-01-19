@@ -1,17 +1,22 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=73F7F6&center=true&random=false&width=435&lines=Congrats%2C+you+found+me+!!;Hi+!!++Afiq+Han+here" alt="Typing SVG" /></a>
-
+<div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=23&duration=4000&pause=1000&background=FF373700&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+!!!;Hi+%F0%9F%91%8B+!!+Afiq+Han+here" alt="Typing SVG" />
+    </a>
+</div>
+<h1 align="center">Hi 👋, I'm Afiq Han</h1>
+<h3 align="center">A passionate web developer from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiqhan&label=Profile%20views&color=0e75b6&style=flat" alt="afiqhan" /> </p>
 
 
-- 🔭 I’m currently study at **University Malaysia Terengganu**
+- 🔭 I’m currently study at **UMT**
 
-- 🌱 I’m currently learning **Flutter Development,Web Based Design,and Graphic Designer**
+- 🌱 I’m currently learning **Flutter Development,Web Development,and Graphic Designer**
 
-- 🤝 I’m looking for help with **Internship 2u2i Programme**
+- 🤝 I’m looking for help with **Internship 2u2i**
 
 - 📫 How to reach me **afiqhanif12345@gmail.com**
 
@@ -31,6 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afiqhan&show_icons=true&locale=en" alt="afiqhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afiqhan&" alt="afiqhan" /></p>
+
+
 <div>
 <h2 align="center">Thank You</h2>
 <div align="center">
