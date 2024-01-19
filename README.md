@@ -35,3 +35,7 @@
 <h2 align="center">Thank You</h2>
 <div align="center">
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
