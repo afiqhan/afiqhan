@@ -7,9 +7,7 @@
 
 
 <h1 align="center">💻</h1>
-<div align="center" dir="auto">
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=23&pause=1000&color=F7F1E5&repeat=false&random=false&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></a></h2>
-</div>
+<h1 align="center">Computer Science Student</h1>
   
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
