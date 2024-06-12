@@ -10,7 +10,7 @@
 <h1 align="center">Computer Science Student</h1>
   
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afiqhan&label=Profile%20views&color=0e75b6&style=flat" alt="afiqhan" /> </p>
 
 
 
@@ -23,6 +23,7 @@
 - 📧 How to reach me **afiqhanif12345@gmail.com**
 
 - ⚡ Fun fact **I want to be an ironman**
+<br>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
