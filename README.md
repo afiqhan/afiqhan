@@ -28,7 +28,10 @@
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/afiqhanif18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/afiqhanif18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/afiq-hanif-099a82283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/afiq-hanif-099a82283" height="30" width="40" /></a>
-<a href="mailto:afiqhanif12345@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://gravatar.com/afiqhan" target="_blank">
+  <img align="center" src="https://www.gravatar.com/avatar/00000000000000000000000000000000?s=1000" alt="Gravatar" height="30" width="40" />
+</a>
+
 
 </p> 
 <br>
