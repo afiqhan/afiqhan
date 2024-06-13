@@ -9,7 +9,7 @@
 <h1 align="center">💻</h1>
 <h1 align="center">Computer Science Student</h1>
   
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" dir="auto" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=afiqhan&label=Profile%20views&color=0e75b6&style=flat" alt="afiqhan" /> </p>
 
