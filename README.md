@@ -45,7 +45,8 @@
 <p align="center"    <a href="https://www.canva.com">
     <img src="[https://upload.wikimedia.org/wikipedia/commons/3/30/Canva_Logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiehive.com%2Fcanva-logo-png%2F&psig=AOvVaw1H11zUsG6S1xpjUPuo_uac&ust=1718643081173000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOj9-MPK4IYDFQAAAAAdAAAAABAE)" alt="canva" width="40" height="40"/> </a>
     <a href="https://www.freepik.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Freepik_logo.png" alt="freepik" width="40" height="40"/>
+  <img src="![image](https://github.com/afiqhan/afiqhan/assets/121393948/71c620cb-2d1c-4f1c-a3db-55d642de9e4f)
+" alt="freepik" width="40" height="40"/>
   </a></p>
 
 <div align="center" dir="auto">
