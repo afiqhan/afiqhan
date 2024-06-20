@@ -16,7 +16,7 @@
 - 🎓 I’m currently study at **Universiti Malaysia Terengganu**
 
 - 📱 I’m currently learning **Mobile Development,Web Development,<br>
-  and Graphic Designer**
+  and Graphic Designer** 
 
 - 🤝 I’m looking for help with **Internship 2u2i**
 
